@@ -16,6 +16,14 @@ stakeholders:
         contacts:
           - label: email
             value: ronald.tse@ribose.com
+  - role: owner
+    name: Jeffrey Lau (Test)
+    gitServerUsername: ribose-jeffreylau
+    parties:
+      - name: Jeffrey Lau
+        contacts:
+          - label: email
+            value: jeffrey.lau@ribose.com
 version:
   id: '1.0'
   timestamp: 2023-04-08T17:00:00.000Z
